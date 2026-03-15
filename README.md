@@ -4,19 +4,19 @@
 This project focuses on analyzing COVID-19 pandemic data to understand the spread, impact, and trends of the virus across different countries and regions. Using data analysis and visualization techniques, the project identifies patterns in confirmed cases, recoveries, and deaths.
 The goal of this project is to gain insights from real-world pandemic data and present them through meaningful visualizations.
 
-## Tools & Technologies Used :
+## Tools & Technologies Used 
 
 Python
 
 Jupyter Notebook
 
-Pandas – Data manipulation and analysis
+Pandas 
 
-NumPy – Numerical operations
+NumPy 
 
-Matplotlib – Data visualization
+Matplotlib 
 
-Seaborn – Statistical visualization
+Seaborn 
 
 ## Key Insights :
 
