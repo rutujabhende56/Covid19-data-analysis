@@ -30,5 +30,6 @@ Death rates varied depending on healthcare systems and response measures.
 
 This project demonstrates how data analysis techniques can help understand real-world problems like the COVID-19 pandemic. It highlights the importance of data-driven insights in decision-making and public health analysis.
 
-(The Dataset is large, so GitHub preview is not available. 
-Please download the file or use raw link.)
+## Dataset Note :
+The dataset used in this project is large and may not be previewed directly on GitHub.
+Please download the file or use the raw link to view and work with the data.
